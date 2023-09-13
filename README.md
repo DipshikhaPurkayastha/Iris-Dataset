@@ -1,5 +1,5 @@
 # Iris-Dataset
-Iris-Dataset is a part of Unsupervised learning. I used k-mean to create clusters.
+Iris-Dataset is a part of Unsupervised learning. I used k-means++ to create clusters.
 The Iris dataset was used in R.A. Fisher's classic 1936 paper, The Use of Multiple Measurements in Taxonomic Problems, and can also be found on the UCI Machine Learning Repository.
 
 It includes three iris species with 50 samples each as well as some properties about each flower. One flower species is linearly separable from the other two, but the other two are not linearly separable from each other.
